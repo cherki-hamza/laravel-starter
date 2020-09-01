@@ -3,6 +3,7 @@
 
 namespace App\Traits;
 
+// this is a class trait for store images
 trait ImageTrait {
 
     // function to store images and store it in the database
